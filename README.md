@@ -1,6 +1,8 @@
 
 # 🛒 Big Mart Sales Prediction Project
 
+![banner](https://github.com/sonusinha1707/Big_Mart_Sales_Prediction/blob/main/Big_Mart_Sales_Prediction.png)
+
 This project focuses on building a **Machine Learning model** to predict sales for retail products across various **Big Mart stores**. The goal is to identify the key factors affecting product sales and build a regression model to forecast sales more accurately.
 
 ---
